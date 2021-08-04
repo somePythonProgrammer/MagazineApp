@@ -2,6 +2,7 @@
 
 ![](https://img.shields.io/badge/Category-Fictional-brightgreen?style=flat&logo=appveyor)
 ![](https://img.shields.io/badge/My%20Github-Click%20below-brightgreen?style=flat)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=somePythonProgrammer.MagazineApp)
 
 [CLICK](https://github.com/somePythonProgrammer)
 
